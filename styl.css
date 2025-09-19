@@ -1,0 +1,19 @@
+body{background-color: rgb(192, 175, 79);
+font-family: papyrus,"Helvetica Neue", Helvetica, sans-serif;color: rgb(85, 126, 10);}
+h2{text-align: center;background-color: #083a96;}
+nav{text-align: center;
+    width: 900px;
+    height: 100px;
+    line-height: 2;}
+p{width: 600px;
+  height: 100px;
+margin-left: 40px;
+margin-top: 50px;}
+img{width: 350px;
+    float: right;
+    margin-right: 450px;
+  margin-top: 50px;}
+section{border: 3px;}
+table {margin:0 auto;
+       text-align: center;}
+html.png{margin: left 50px; ;}
